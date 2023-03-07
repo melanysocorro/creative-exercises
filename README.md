@@ -8,4 +8,4 @@ I opted to keep the noise below the CFG scale when using image-to-image for the 
 - This is Me Trying
 - Mirrorball
 
-Access this exercise here: 
+Access this exercise here: https://github.com/melanysocorro/creative-exercises/blob/main/Mirrored_%20Image-Generation%20Exercise.pdf
