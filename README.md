@@ -10,4 +10,4 @@ I opted to keep the noise below the CFG scale when using image-to-image for the 
 
 <strong> Run Here </strong>
 
-https://github.com/melanysocorro/creative-exercises/blob/main/Mirrored_%20Image-Generation%20Exercise.pdf
+https://github.com/melanysocorro/creative-exercises/blob/main/Mirrored_%20Image-Generation%20Exercise%20(1).pdf
